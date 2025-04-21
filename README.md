@@ -21,6 +21,16 @@
 
 ---
 
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:modakkrishna789@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/krishna-modak"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="tel:+918877619349"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
+
+---
+
 ### 🚀 Featured Projects
 
 - 🛠️ [GitHub Portfolio](https://github.com/Krishnamodak)  
