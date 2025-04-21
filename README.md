@@ -25,7 +25,7 @@
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://leetcode.com/u/krishna_modak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="janmejay_m1" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/krishna_modak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Krishnamodak" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/modakkrishna789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="janmejay_m1" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/modakkri8lzy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="janmejay_m1" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/krishna_modak" target="blank"><img align="centre" src="" alt="janmejay_m1" height="30" width="40"</a>
