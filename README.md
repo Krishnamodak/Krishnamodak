@@ -61,10 +61,6 @@ Check out all my work, projects, and contributions there.
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janmejaym&show_icons=true&locale=en&layout=compact" alt="janmejaym" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janmejaym&show_icons=true&locale=en" alt="janmejaym" /></p>
-
 ---
 
 ### 📊 GitHub Stats
