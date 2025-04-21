@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <h1 align="center">Hi 👋, I'm Krishna Modak</h1>
 <h3 align="center">🚀 Frontend Developer & Aspiring Data Scientist</h3>
 
@@ -23,10 +24,11 @@
 
 ### 🤝 Connect With Me
 
-<p align="center">
-  <a href="mailto:modakkrishna789@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/krishna-modak"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="tel:+918877619349"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<p align="left">
+<a href="https://www.codechef.com/users/krishna_modak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="janmejay_m1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/modakkrishna789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="janmejay_m1" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/krishna_modak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="janmejay_m1" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/modakkri8lzy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="janmejay_m1" height="30" width="40" /></a>
 </p>
 
 ---
