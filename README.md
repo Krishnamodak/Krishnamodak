@@ -13,9 +13,6 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on improving my **React & Python** skills  
-- 🌱 I’m learning **Machine Learning** and **Data Science**  
-- 💼 Available for freelance and collaboration  
 - 📫 Reach me at **modakkrishna789@gmail.com**  
 - 📱 Contact: +91 8877619349  
 - 🔗 LinkedIn: [linkedin.com/in/krishna-modak](https://www.linkedin.com/in/krishna-modak)
