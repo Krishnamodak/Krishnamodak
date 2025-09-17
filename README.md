@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <h1 align="center">Hi 👋, I'm Krishna Modak</h1>
-<h3 align="center">🚀 Frontend Developer</h3>
+<h3 align="center">🚀 Full Stack Developer</h3>
 
 ---
 
